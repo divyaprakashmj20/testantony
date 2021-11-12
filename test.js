@@ -1,4 +1,4 @@
-const http = require('httpsssssssssssssss');
+const http = require('httpsssss');
 const https = require('https');
 const fs = require('fs');
 var bigTextUrl = "http://norvig.com/big.txt"
